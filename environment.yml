@@ -1,0 +1,11 @@
+name: mlflow_modelserver
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - python==3.7.4
+  - mlflow==1.6.0
+  - fastapi==0.48.0
+  - ipykernel
+  - scikit-learn

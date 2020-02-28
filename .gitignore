@@ -1,0 +1,7 @@
+__pycache__
+api
+mlruns
+.ipynb_checkpoints
+.DS_Store
+.model_preperation.py
+train.py
